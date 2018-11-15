@@ -384,6 +384,9 @@ html,body{
     position:relative;
     margin:70px auto;
 }
+.slick-track{
+    will-change:transform;
+}
 .slider-next-btn{
     position:absolute;
     z-index:10;
